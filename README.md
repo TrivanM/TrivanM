@@ -1,5 +1,6 @@
  <h1>Hi, I'm Trivan Mitchell! <br/><a 
-href="https://www.linkedin.com/in/trivan-mitchell-9789a1406/">Data Analyst</a>
+href="https://www.linkedin.com/in/trivan-mitchell-9789a1406/">Data Analyst</a>, <a
+Href=>Scrum Master</a>                                                                                 
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
@@ -7,10 +8,14 @@ href="https://www.linkedin.com/in/trivan-mitchell-9789a1406/">Data Analyst</a>
 - <b>💾SQL Project</b>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/TrivanM/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
+ - <b>💾Power BI Project</b>
+  - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDI3MjQyZGEtNzU3MS00M2RjLWE5MmQtN2I0MmQ5YTEwNDBkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
+
 <h2>📚Certifications:</h2>
 
 - <b>📜May 2026 Data Analytics Career Accelerator Program</b>
   - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=247b42b1-72c2-4935-838a-279b32482cb2)
+
 
 
 <h2>📱Connect with me:</h2>
