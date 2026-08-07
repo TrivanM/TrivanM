@@ -1,11 +1,11 @@
-<h1>Hi, I'm Trivan Mitchell! <br/><a 
+ <h1>Hi, I'm Trivan Mitchell! <br/><a 
 href="https://www.linkedin.com/in/trivan-mitchell-9789a1406/">Data Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Food and Beverage Revenue Analysis for Arts Nonprofit](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/TrivanM/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
 <h2>📚Certifications:</h2>
 
