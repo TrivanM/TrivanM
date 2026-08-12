@@ -15,6 +15,8 @@ Href=>Business Intelligence Analyst</a>
 
 - <b>📜May 2026 Data Analytics Career Accelerator Program</b>
   - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=247b42b1-72c2-4935-838a-279b32482cb2)
+  - <b>📜SQL: Intro to Joins</b>
+  [Completed the intro to Joins Workshop, covering fundamental SQL JOIN concepts including: INNER JOIN, Joining Multiple tables, understanding table relationships, and retrieving data across datasets.](https://www.virtualbadge.io/certificate-validator?credential=8960646e-d023-4961-9a31-c249682d3798)
 
 
 
