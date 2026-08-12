@@ -17,10 +17,10 @@ Href=>Business Intelligence Analyst</a>
   - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=247b42b1-72c2-4935-838a-279b32482cb2)
 
 - <b>📜SQL: Intro to Joins</b>
-  [Completed the intro to Joins Workshop, covering fundamental SQL JOIN concepts including: INNER JOIN, Joining Multiple tables, understanding table relationships, and retrieving data across datasets.](https://www.virtualbadge.io/certificate-validator?credential=8960646e-d023-4961-9a31-c249682d3798)
+ - [Completed the intro to Joins Workshop, covering fundamental SQL JOIN concepts including: INNER JOIN, Joining Multiple tables, understanding table relationships, and retrieving data across datasets.](https://www.virtualbadge.io/certificate-validator?credential=8960646e-d023-4961-9a31-c249682d3798)
 
 - <b>📜SQL: Beginner Bootcamp</b>
-[completed the Beginner SQL Query Writing Bootcamp Covering: SELECT, FROM, WHERE, ORDER BY, LIMIT, CALCULATED FEILDS, DATA TYPES, ALLIAS, DISTINCT](https://www.virtualbadge.io/certificate-validator?credential=f73ef84e-7baa-46aa-be24-00c68743cf96) 
+- [completed the Beginner SQL Query Writing Bootcamp Covering: SELECT, FROM, WHERE, ORDER BY, LIMIT, CALCULATED FEILDS, DATA TYPES, ALLIAS, DISTINCT](https://www.virtualbadge.io/certificate-validator?credential=f73ef84e-7baa-46aa-be24-00c68743cf96) 
 
 
 
