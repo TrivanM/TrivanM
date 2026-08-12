@@ -9,7 +9,7 @@ Href=>Business Intelligence Analyst</a>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/TrivanM/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
  - <b>💾Power BI Project</b>
-  - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDI3MjQyZGEtNzU3MS00M2RjLWE5MmQtN2I0MmQ5YTEwNDBkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
+   - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDI3MjQyZGEtNzU3MS00M2RjLWE5MmQtN2I0MmQ5YTEwNDBkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 <h2>📚Certifications:</h2>
 
