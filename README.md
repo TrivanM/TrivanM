@@ -4,6 +4,7 @@ Href=>BI & Reporting Analyst</a> | <a
 Href=>SQL • Power BI • Excel</a>
 </h1>
 I’m a Toronto-based Data Analyst with hands-on experience using SQL, Power BI and Excel to transform operational data into actionable business insights. My experience includes recurring business reporting, data modelling, DAX calculations, KPI development and interactive executive dashboards. I’m currently pursuing opportunities in data analytics, business intelligence and reporting.
+
 ---
 
 
