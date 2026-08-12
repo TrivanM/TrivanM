@@ -18,11 +18,11 @@ Href=>Business Intelligence Analyst</a>
 
 - <b>📜SQL: Intro to Joins</b>
 
- - [Completed the intro to Joins Workshop, covering fundamental SQL JOIN concepts including: INNER JOIN, Joining Multiple tables, understanding table relationships, and retrieving data across datasets.](https://www.virtualbadge.io/certificate-validator?credential=8960646e-d023-4961-9a31-c249682d3798)
+  - [Completed the intro to Joins Workshop, covering fundamental SQL JOIN concepts including: INNER JOIN, Joining Multiple tables, understanding table relationships, and retrieving data across datasets.](https://www.virtualbadge.io/certificate-validator?credential=8960646e-d023-4961-9a31-c249682d3798)
 
 - <b>📜SQL: Beginner Bootcamp</b>
 
-- [completed the Beginner SQL Query Writing Bootcamp Covering: SELECT, FROM, WHERE, ORDER BY, LIMIT, CALCULATED FEILDS, DATA TYPES, ALLIAS, DISTINCT](https://www.virtualbadge.io/certificate-validator?credential=f73ef84e-7baa-46aa-be24-00c68743cf96) 
+ - [completed the Beginner SQL Query Writing Bootcamp Covering: SELECT, FROM, WHERE, ORDER BY, LIMIT, CALCULATED FEILDS, DATA TYPES, ALLIAS, DISTINCT](https://www.virtualbadge.io/certificate-validator?credential=f73ef84e-7baa-46aa-be24-00c68743cf96) 
 
 
 
