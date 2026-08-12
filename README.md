@@ -1,6 +1,6 @@
  <h1>Hi, I'm Trivan Mitchell! <br/><a 
 href="https://www.linkedin.com/in/trivan-mitchell-9789a1406/">Data Analyst</a>, <a
-Href=>Scrum Master</a>                                                                                 
+Href=>Business Intelligence Analyst</a>                                                                                 
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
