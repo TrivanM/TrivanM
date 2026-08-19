@@ -15,6 +15,7 @@ I’m a Toronto-based Data Analyst with hands-on experience using SQL, Power BI 
 
  - <b>💾Power BI Project</b>
    - [Box Office Year-To-Date Executive Dashboard | Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDI3MjQyZGEtNzU3MS00M2RjLWE5MmQtN2I0MmQ5YTEwNDBkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
+   - [Canadian Labour Market Analytics Dashboard | Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjk3NzQ1MGQtZjFjNi00NzhjLThiNjYtMWEyYzkwOTIzZmExIiwidCI6IjI0N2EwYTI2LWU3MjMtNDE3Yy05MTRmLWE1MjcxNmUwMWRkZCJ9)
 
 <h2>📚Certifications & Training:</h2>
 
